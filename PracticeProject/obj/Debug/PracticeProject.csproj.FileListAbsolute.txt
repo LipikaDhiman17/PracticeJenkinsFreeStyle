@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\LTI-Training Dot Net\DevOps\Day-3 Jenkins\PracticeSolution\PracticeProject\bin\Debug\PracticeProject.exe.config
+C:\Users\user\Desktop\LTI-Training Dot Net\DevOps\Day-3 Jenkins\PracticeSolution\PracticeProject\bin\Debug\PracticeProject.exe
+C:\Users\user\Desktop\LTI-Training Dot Net\DevOps\Day-3 Jenkins\PracticeSolution\PracticeProject\bin\Debug\PracticeProject.pdb
+C:\Users\user\Desktop\LTI-Training Dot Net\DevOps\Day-3 Jenkins\PracticeSolution\PracticeProject\obj\Debug\PracticeProject.csprojAssemblyReference.cache
+C:\Users\user\Desktop\LTI-Training Dot Net\DevOps\Day-3 Jenkins\PracticeSolution\PracticeProject\obj\Debug\PracticeProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LTI-Training Dot Net\DevOps\Day-3 Jenkins\PracticeSolution\PracticeProject\obj\Debug\PracticeProject.exe
+C:\Users\user\Desktop\LTI-Training Dot Net\DevOps\Day-3 Jenkins\PracticeSolution\PracticeProject\obj\Debug\PracticeProject.pdb
